@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/view_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        
+             >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/holder"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+
+        >
+
+        <TextView
+            android:id="@+id/delete"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+           	android:gravity="center"
+            android:textColor="@color/floralwhite"
+            android:background="@color/blueviolet"
+            android:text="网络电话" 
+            android:clickable="true"
+            
+            />
+
+        <TextView
+            android:id="@+id/call"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="电话"
+            android:background="@color/lightskyblue"
+            android:textColor="@color/floralwhite" 
+            android:clickable="true"
+           />
+
+        <TextView
+            android:id="@+id/sendmsg"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="发短信"
+            android:background="@color/chartreuse"
+            android:textColor="@color/floralwhite" 
+            android:clickable="true"
+            />
+
+    </RelativeLayout>
+
+</merge>

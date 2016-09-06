@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:2:1-256:12
+	package
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\debug\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.2.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANDROID WORK\Bmob_IM_CC\app\src\debug\AndroidManifest.xml
+supports-screens
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:12:6-17:39
+	android:largeScreens
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:15:9-38
+	android:resizeable
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:13:9-34
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:21:4-70
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:21:21-68
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:23:4-67
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:23:21-65
+uses-permission#android.permission.INTERNET
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:27:22-65
+permission#cn.bmob.permission.push
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:29:5-32:18
+	android:protectionLevel
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:30:9-47
+uses-permission#cn.bmob.permission.push
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:33:5-63
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:33:22-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:38:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:40:5-66
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:40:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:42:5-71
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:42:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:43:5-74
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:43:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:44:5-74
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:44:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:45:22-77
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:46:5-47:23
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:46:22-78
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:48:5-85
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:48:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:49:5-50:23
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:49:22-65
+uses-permission#android.permission.ACCESS_GPS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:51:5-69
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:51:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:54:5-67
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:54:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:55:5-67
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:55:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:57:5-68
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:57:22-65
+uses-permission#android.permission.CAMERA
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:58:5-59:23
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:58:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:60:5-61:23
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:60:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:64:5-81
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:64:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:65:5-75
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:65:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:66:5-73
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:66:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:68:5-69:23
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:68:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:70:5-80
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:70:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:73:2-94
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:73:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:75:2-92
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:75:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:81:2-89
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:81:19-70
+application
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:111:5-254:19
+MERGED from [com.android.support:support-v4:22.2.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:115:9-41
+	android:allowBackup
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:113:9-35
+	android:icon
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:114:9-45
+	android:theme
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:116:9-40
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:112:9-57
+activity#com.bmob.im.demo.ui.SplashActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:117:9-125:20
+	android:label
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:118:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:120:13-124:29
+action#android.intent.action.MAIN
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:121:17-69
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:121:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:123:17-77
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:123:27-74
+activity#com.bmob.im.demo.ui.MainActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:126:9-129:73
+	android:launchMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:128:13-44
+	android:windowSoftInputMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:129:13-70
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:127:13-60
+activity#com.bmob.im.demo.ui.LoginActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:131:9-54
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:131:19-51
+activity#com.bmob.im.demo.paopao.Activity_paopao
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:132:9-60
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:132:19-57
+activity#com.bmob.im.demo.ui.LocationActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:135:9-57
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:135:19-54
+activity#com.bmob.im.demo.ui.BlackListActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:137:9-58
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:137:19-55
+activity#com.bmob.im.demo.ui.ImageBrowserActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:139:9-61
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:139:19-58
+activity#com.bmob.im.demo.ui.AddFriendActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:141:9-143:67
+	android:windowSoftInputMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:143:13-64
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:142:13-65
+activity#com.bmob.im.demo.ui.NewFriendActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:145:9-74
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:145:19-71
+activity#com.bmob.im.demo.ui.NearPeopleActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:146:9-75
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:146:19-72
+activity#com.bmob.im.demo.ui.UpdateInfoActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:148:9-75
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:148:19-72
+activity#com.bmob.im.demo.ui.ChatActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:150:9-152:76
+	android:windowSoftInputMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:152:13-73
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:151:13-60
+activity#com.bmob.im.demo.ui.SetMyInfoActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:154:9-74
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:154:19-71
+activity#com.bmob.im.demo.ui.RegisterActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:156:9-158:48
+	android:label
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:158:13-45
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:157:13-64
+activity#com.bmob.im.demo.ui.set_contacts_p
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:159:9-161:15
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:160:13-62
+activity#com.bmob.im.demo.ui.VideoCallActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:162:9-167:15
+	android:screenOrientation
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:165:13-49
+	android:launchMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:166:13-44
+	android:configChanges
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:164:13-74
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:163:13-65
+activity#com.bmob.im.demo.ui.VoiceCallActivity
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:170:9-175:20
+	android:screenOrientation
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:172:13-49
+	android:launchMode
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:173:13-44
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:171:13-65
+service#com.easemob.chat.EMChatService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:178:9-65
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:178:18-63
+receiver#com.easemob.chat.EMMonitorReceiver
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:180:9-189:20
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:180:19-68
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:181:13-184:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:182:17-79
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:182:25-77
+data
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:183:17-49
+	android:scheme
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:183:23-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:185:13-188:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:186:17-78
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:186:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:187:17-77
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:187:25-74
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:196:9-199:11
+	android:value
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:198:4-44
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:197:4-43
+service#com.baidu.location.f
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:200:10-208:19
+	android:enabled
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:202:13-35
+	android:process
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:203:13-38
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:201:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:204:13-207:29
+action#com.baidu.location.service_v2.2
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:205:17-206:26
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:205:25-71
+service#cn.bmob.push.lib.service.PushService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:211:9-220:19
+	android:process
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:216:13-43
+	android:label
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:214:13-40
+	android:exported
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:213:13-36
+	android:permission
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:215:13-57
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:212:13-64
+intent-filter#cn.bmob.push.lib.service.PushService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:217:13-219:29
+action#cn.bmob.push.lib.service.PushService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:218:17-79
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:218:25-76
+receiver#cn.bmob.push.PushReceiver
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:222:9-231:20
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:222:19-59
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:223:13-230:29
+	android:priority
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:223:28-57
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:229:17-79
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:229:25-76
+receiver#com.bmob.im.demo.MyMessageReceiver
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:232:9-236:20
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:232:19-52
+intent-filter#cn.bmob.push.action.MESSAGE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:233:13-235:29
+action#cn.bmob.push.action.MESSAGE
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:234:17-70
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:234:25-67
+service#cn.bmob.im.poll.BmobPollService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:241:10-245:19
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:241:19-65
+intent-filter#cn.bmob.im.service.BmobPollService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:242:13-244:29
+action#cn.bmob.im.service.BmobPollService
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:243:17-76
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:243:25-74
+meta-data#EASEMOB_APPKEY
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:247:6-74
+	android:value
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:247:48-71
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:247:17-46
+meta-data#com.google.android.gms.version
+ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:251:9-253:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] F:\ANDROID WORK\Bmob_IM_CC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:253:13-66
+	android:name
+		ADDED from F:\ANDROID WORK\Bmob_IM_CC\app\src\main\AndroidManifest.xml:252:13-58

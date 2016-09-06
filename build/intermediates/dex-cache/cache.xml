@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android-sdk\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_99cae5a6983391bb313fa6234bc49bd7a6a1c824.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\easemobchat_2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="c608ba89a915d2a251dd9c62f930e799c786bdc2">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.4_bfac02a1ccd81f615a401ee14f2e1ec77847d286.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="b264b7afded5073406fee0c14432bf3063209f55">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\instant-run_99df91ad9105671b66ca77ddfda2669e97458d98.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\bmobim_v1.1.2beta.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="fac25361a61633eacf5ca58d6581b0d4c4fae842">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\bmobim_v1.1.2beta_3078a9c66cf4af46d892b4c7242ef0597316f30b.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\locSDK_4.2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\locSDK_4.2_f6149508ba8363637b5dd051f7d1cf7d5c82e48d.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\baidumapapi_v3_0_0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_0_0_fa0213a6c8c2613ff84c0fcca33f7bb4bd97850a.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_3bfe1b56739478e7956d2448559abcaaf2f82ab6.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\Parse-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\Parse-1.9.4_b4a9c7c358e433ea1f2648a70f83971f220fe1e4.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\bmobsdk_v3.2.3_0919.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="347dc80eab0cba3405457d3450fb9667ba305de5">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\bmobsdk_v3.2.3_0919_f606b864f49ca8c38f97b6d5e72ea0d8d74bdec2.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\photoview-library-1.2.2_fd93b8c28388bcf63a2a3ddd2f0fae6014db2ffb.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_c488e101d51f09b8fdf118fcdec9a687e2ea5b36.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f00f13cfeb82dfd15cdacc99b3470681d323b55f">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_62f1188644416ce540877dc2f33a7623b8bb34a6.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_672a9a07032ee396eff39b210115d8d48d81a447.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_abeb52bcb886d248b57b12c88386fa2e8948c384.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_d5bb26e555384e51d67bd24dd86854b6c2e8dfd7.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_26f3800951246b7694c448555cc3f21458c1e9d5.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources_936b6fa6ba7300d087a2d5984914732e6e81201e.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\ANDROID WORK\Bmob_IM_V1.1.2_Demo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_3160c007de6f121a6340d561ee522d754ac2121c.jar" />
+    </item>
+
+</items>

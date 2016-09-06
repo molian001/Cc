@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_sent_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_rightbutton.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\common_header_rightbutton.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showpicture.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_showpicture.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_new_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_new_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_new_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\fragment_set.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_user_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_new_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_new_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\fragment_recent.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\fragment_set.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_contacts_p.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\set_contacts_p.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_add_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_add_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_emo_gridview.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_emo_gridview.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_image.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_received_image.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_face_text.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_face_text.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_message.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_received_message.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_emo_gridview.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_emo_gridview.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_sent_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_voice.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_received_voice.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_voice.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_bottom_bar.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_chat_bottom_bar.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_near_people.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_near_people.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_picture.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_show_picture.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blacklist.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blacklist.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_near_people.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_near_people.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_info.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_set_info.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_contacts_p.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\set_contacts_p.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_voice_short.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_chat_voice_short.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showpicture.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_showpicture.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_showavator.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\pop_showavator.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v2_dialog_base.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\v2_dialog_base.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paopao.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_paopao.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_add.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_chat_add.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_video_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_blacklist.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_message.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_sent_message.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_conversation.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_user_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_voice.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_voice_short.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_chat_voice_short.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_bottom_bar.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_chat_bottom_bar.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_near_people.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_near_people.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_rightbutton.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\common_header_rightbutton.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_paopao_add.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_paopao_add.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_updateinfo.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_set_updateinfo.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v2_dialog_base.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\v2_dialog_base.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_paopao_add.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_paopao_add.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paopao.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_paopao.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_updateinfo.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_set_updateinfo.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contacts.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\include_action_bar.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contacts.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_contacts.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_near_people.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_near_people.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_image.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_received_image.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_picture.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_show_picture.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_info.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_set_info.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\common_header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_conversation.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_button.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\common_header_button.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_showavator.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\pop_showavator.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_voice.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_received_voice.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_new_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_action_bar.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_message.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_received_message.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_message.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_sent_message.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_button.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\common_header_button.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_add.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\include_chat_add.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_add_friend.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_add_friend.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_paopao.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_paopao.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_received_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_image.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_chat_sent_image.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_face_text.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_face_text.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_blacklist.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_image.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_sent_image.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_location.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\item_chat_received_location.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\fragment_recent.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_video_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_paopao.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\layout\\item_paopao.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\anim\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\anim\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_V1.1.2_Demo\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "F:\\ANDROID WORK\\Bmob_IM_CC\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    }
+]

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:padding="8dip"
+	android:orientation="horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content">
+	<ImageView
+	    android:id="@+id/user_icon"
+		android:layout_width="48dip"
+		android:layout_height="48dip"
+		android:src="@drawable/user_icon" />
+	<View
+		android:layout_width="8dip"
+		android:layout_height="fill_parent" />
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+		<TextView
+		    android:id="@+id/user_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="SomeBody" />
+		<TextView
+			android:id="@+id/content"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingTop="5dip"
+			android:maxLines="4"
+			android:paddingBottom="5dip"
+			android:text="你的影子在每一个角落\n 好像是在提醒着我" />
+		<TextView
+			android:id="@+id/more"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:visibility="gone"
+			android:text="显示更多" />
+		<GridView
+			android:id="@+id/gridView"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:numColumns="3" />
+		<RelativeLayout
+			android:gravity="center_vertical"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView
+
+				android:id="@+id/publish_time"
+				android:layout_alignParentLeft="true"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="2天前" />
+			<TextView
+			    android:id="@+id/phone"
+				android:paddingLeft="5dip"
+				android:layout_toRightOf="@id/publish_time"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="来自POCO相机" />
+			<ImageButton
+				android:focusable="true"
+				android:id="@+id/imgButton"
+				android:layout_alignParentRight="true"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:background="@drawable/coment" />
+		</RelativeLayout>
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:background="@drawable/detail">
+			<TextView
+			    android:id="@+id/backname"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:drawableLeft="@drawable/likeicon"
+				android:text="寂寞" />
+			<TextView
+ 				android:id="@+id/backcontent"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="窗外有朵樱花， 开得那么灿烂" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>
